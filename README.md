@@ -1,6 +1,6 @@
 # Heart Disease Prediction using Machine Learning
 
-This project aims to predict the presence of heart disease in patients using machine learning techniques. We used the logistic regression algorithm on a cleaned heart disease dataset and achieved an accuracy of **85.25%**.
+This project aims to predict the presence of heart disease in patients using machine learning techniques. We used the logistic regression algorithm on a cleaned heart analysis dataset and achieved an accuracy of **85.25%**.
 
 ## Objective
 To assist early diagnosis of heart-related conditions using predictive analytics, helping healthcare providers take preventive action.
@@ -38,5 +38,4 @@ Heart-Disease-Prediction/
 The dataset used is `heart.csv`, a structured dataset containing medical records such as age, cholesterol, blood pressure, etc.
 
 ## Author
-Varshitha Thatikonda  
-[LinkedIn Profile](https://www.linkedin.com/in/thatikonda-varshitha-7589941a3/)
+Varshitha
