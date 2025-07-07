@@ -19,7 +19,7 @@ Heart-Disease-Prediction/
 │
 ├── data/                 # Contains the dataset (heart.csv)
 ├── notebooks/            # Jupyter Notebook with model and EDA
-├── reports/              # PDF report and PPT presentation
+├── reports/              # PDF report
 ├── requirements.txt      # Required Python libraries
 └── README.md             # Project overview
 ```
