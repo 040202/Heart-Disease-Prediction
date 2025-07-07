@@ -37,14 +37,6 @@ Heart-Disease-Prediction/
 ## Dataset
 The dataset used is `heart.csv`, a structured dataset containing medical records such as age, cholesterol, blood pressure, etc.
 
-## How to Run
-1. Clone or download the repository
-2. Install the required libraries using:  
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the notebook `heart_disease_prediction.ipynb` in Jupyter.
-
-## 📌 Author
+## Author
 Varshitha Thatikonda  
 [LinkedIn Profile](https://www.linkedin.com/in/thatikonda-varshitha-7589941a3/)
