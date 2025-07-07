@@ -2,10 +2,10 @@
 
 This project aims to predict the presence of heart disease in patients using machine learning techniques. We used the logistic regression algorithm on a cleaned heart disease dataset and achieved an accuracy of **85.25%**.
 
-## 📌 Objective
+## Objective
 To assist early diagnosis of heart-related conditions using predictive analytics, helping healthcare providers take preventive action.
 
-## 💻 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -13,7 +13,7 @@ To assist early diagnosis of heart-related conditions using predictive analytics
 - Matplotlib
 - Seaborn
 
-## 📁 Project Structure
+## Project Structure
 ```
 Heart-Disease-Prediction/
 │
@@ -24,20 +24,20 @@ Heart-Disease-Prediction/
 └── README.md             # Project overview
 ```
 
-## 🚀 Model Performance
+## Model Performance
 - **Algorithm:** Logistic Regression
 - **Accuracy:** 85.25%
 
-## 📊 Highlights
+## Highlights
 - Data cleaning & preprocessing
 - Exploratory Data Analysis (EDA)
 - Model training & evaluation
 - Visualizations and reporting
 
-## 📎 Dataset
+## Dataset
 The dataset used is `heart.csv`, a structured dataset containing medical records such as age, cholesterol, blood pressure, etc.
 
-## ✅ How to Run
+## How to Run
 1. Clone or download the repository
 2. Install the required libraries using:  
    ```
